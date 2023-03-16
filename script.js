@@ -4,15 +4,7 @@ let gameDivs = document.querySelectorAll('.game_div')
 let winnerDiv = document.querySelector('.winner')
 let restartButton = document.querySelector('.restart')
 let current = document.querySelector('.currentMove')
-let game1Div = document.querySelector('.game1')
-let game2Div = document.querySelector('.game2')
-let game3Div = document.querySelector('.game3')
-let game4Div = document.querySelector('.game4')
-let game5Div = document.querySelector('.game5')
-let game6Div = document.querySelector('.game6')
-let game7Div = document.querySelector('.game7')
-let game8Div = document.querySelector('.game8')
-let game9Div = document.querySelector('.game9')
+
 
 startGame(gameDivs)
 
